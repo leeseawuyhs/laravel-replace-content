@@ -1,0 +1,14 @@
+{
+    "name": "leeseawuyhs/laravel-replace-content",
+    "description": "Replace content in table fields for the Laravel framework",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ReplaceContent\\": "src/ReplaceContent/"
+        }
+    },
+    "require": {
+        "php": ">=7.3",
+        "illuminate/support": "^8.0|^9.0|^10.0"
+    }
+}
